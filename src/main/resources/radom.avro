@@ -1,0 +1,398 @@
+{
+  "purposingHeader": {
+    "runDate": 17314353636353,
+    "dataViewName": "PURP_UKDEV_CONSUMER_NAMETABLE",
+    "additionalInfo": {
+      "env": "int-uk",
+      "MAINTENANCE_STRATEGY": "DELETE_ON_EMPTY"
+    }
+  },
+  "protectionInfo": {
+    "unprotected": "true",
+    "keyIndex": 9
+  },
+  "CONSUMER_NAMETABLE": {
+    "latest": [
+      {
+        "rawfields": {
+          "ptcAbs": {
+            "postTownCode": "2540",
+            "absoluteHouseID": "1234567"
+          },
+          "sequenceNumber": "001",
+          "personKey": "PK-7890123",
+          "titleCode": "Mr",
+          "forename": "John",
+          "secondname": "Smith",
+          "genederFlag": "M",
+          "counters": {
+            "insightCounter": "005",
+            "ccjCounter": "002",
+            "RRCounter": "001",
+            "ERCounter": "003",
+            "iCounter": "004",
+            "sightCounter": "006",
+            "inCounter": "0007"
+          },
+          "trasnsactionType": "U",
+          "syncUUID": "987654321098",
+          "additionalField1": "ExtraInfo1"
+        },
+        "standard": {
+          "processingTime": "2024-12-01T10:15:30.456Z",
+          "formatOfSupply": "EFX_EXT",
+          "activeFlag": "Y",
+          "uuid": {
+            "dbNumber": "2023",
+            "fileNumber": "6543",
+            "ISNNUmber": "87654321"
+          },
+          "StdsyncUUID": "987654321098",
+          "sourceSystem": "CRM_MAIN"
+        }
+      },
+      {
+        "rawfields": {
+          "ptcAbs": {
+            "postTownCode": "3210",
+            "absoluteHouseID": "9876543"
+          },
+          "sequenceNumber": "002",
+          "personKey": "PK-4567890",
+          "titleCode": "Ms",
+          "forename": "Emily",
+          "secondname": "Johnson",
+          "genederFlag": "F",
+          "counters": {
+            "insightCounter": "010",
+            "ccjCounter": "001",
+            "RRCounter": "003",
+            "ERCounter": "002",
+            "iCounter": "005",
+            "sightCounter": "007",
+            "inCounter": "0009"
+          },
+          "trasnsactionType": "I",
+          "syncUUID": "567890123456",
+          "additionalField2": "ExtraInfo2"
+        },
+        "standard": {
+          "processingTime": "2024-12-02T14:20:45.789Z",
+          "formatOfSupply": "EFX_INT",
+          "activeFlag": "N",
+          "uuid": {
+            "dbNumber": "1987",
+            "fileNumber": "4321",
+            "ISNNUmber": "23456789"
+          },
+          "StdsyncUUID": "567890123456",
+          "processingLocation": "LONDON"
+        }
+      },
+      {
+        "rawfields": {
+          "ptcAbs": {
+            "postTownCode": "7890",
+            "absoluteHouseID": "5432109"
+          },
+          "sequenceNumber": "003",
+          "personKey": "PK-2345678",
+          "titleCode": "Dr",
+          "forename": "Michael",
+          "secondname": "Williams",
+          "genederFlag": "M",
+          "counters": {
+            "insightCounter": "015",
+            "ccjCounter": "004",
+            "RRCounter": "002",
+            "ERCounter": "006",
+            "iCounter": "008",
+            "sightCounter": "012",
+            "inCounter": "0015"
+          },
+          "trasnsactionType": "D",
+          "syncUUID": "234567890123",
+          "additionalField3": "ExtraInfo3"
+        },
+        "standard": {
+          "processingTime": "2024-12-03T09:45:22.123Z",
+          "formatOfSupply": "EFX_EXT",
+          "activeFlag": "Y",
+          "uuid": {
+            "dbNumber": "2045",
+            "fileNumber": "7890",
+            "ISNNUmber": "45678901"
+          },
+          "StdsyncUUID": "234567890123",
+          "dataQualityScore": "HIGH"
+        }
+      },
+      {
+        "rawfields": {
+          "ptcAbs": {
+            "postTownCode": "1234",
+            "absoluteHouseID": "6789054"
+          },
+          "sequenceNumber": "004",
+          "personKey": "PK-9012345",
+          "titleCode": "Mrs",
+          "forename": "Sarah",
+          "secondname": "Brown",
+          "genederFlag": "F",
+          "counters": {
+            "insightCounter": "020",
+            "ccjCounter": "003",
+            "RRCounter": "005",
+            "ERCounter": "004",
+            "iCounter": "007",
+            "sightCounter": "011",
+            "inCounter": "0012"
+          },
+          "trasnsactionType": "U",
+          "syncUUID": "345678901234",
+          "additionalField4": "ExtraInfo4"
+        },
+        "standard": {
+          "processingTime": "2024-12-04T16:30:55.456Z",
+          "formatOfSupply": "EFX_INT",
+          "activeFlag": "N",
+          "uuid": {
+            "dbNumber": "1999",
+            "fileNumber": "5678",
+            "ISNNUmber": "56789012"
+          },
+          "StdsyncUUID": "345678901234",
+          "customerSegment": "PREMIUM"
+        }
+      },
+      {
+        "rawfields": {
+          "ptcAbs": {
+            "postTownCode": "5678",
+            "absoluteHouseID": "2345678"
+          },
+          "sequenceNumber": "005",
+          "personKey": "PK-6789012",
+          "titleCode": "Mr",
+          "forename": "David",
+          "secondname": "Jones",
+          "genederFlag": "M",
+          "counters": {
+            "insightCounter": "025",
+            "ccjCounter": "005",
+            "RRCounter": "004",
+            "ERCounter": "007",
+            "iCounter": "009",
+            "sightCounter": "013",
+            "inCounter": "0018"
+          },
+          "trasnsactionType": "I",
+          "syncUUID": "456789012345",
+          "additionalField5": "ExtraInfo5"
+        },
+        "standard": {
+          "processingTime": "2024-12-05T11:55:44.789Z",
+          "formatOfSupply": "EFX_EXT",
+          "activeFlag": "Y",
+          "uuid": {
+            "dbNumber": "2056",
+            "fileNumber": "9012",
+            "ISNNUmber": "67890123"
+          },
+          "StdsyncUUID": "456789012345",
+          "riskCategory": "LOW"
+        }
+      },
+      {
+        "rawfields": {
+          "ptcAbs": {
+            "postTownCode": "9012",
+            "absoluteHouseID": "3456789"
+          },
+          "sequenceNumber": "006",
+          "personKey": "PK-3456789",
+          "titleCode": "Ms",
+          "forename": "Jessica",
+          "secondname": "Davis",
+          "genederFlag": "F",
+          "counters": {
+            "insightCounter": "030",
+            "ccjCounter": "002",
+            "RRCounter": "006",
+            "ERCounter": "005",
+            "iCounter": "010",
+            "sightCounter": "014",
+            "inCounter": "0020"
+          },
+          "trasnsactionType": "D",
+          "syncUUID": "567890123456",
+          "additionalField6": "ExtraInfo6"
+        },
+        "standard": {
+          "processingTime": "2024-12-06T08:40:11.234Z",
+          "formatOfSupply": "EFX_INT",
+          "activeFlag": "N",
+          "uuid": {
+            "dbNumber": "2011",
+            "fileNumber": "3456",
+            "ISNNUmber": "78901234"
+          },
+          "StdsyncUUID": "567890123456",
+          "lastUpdatedBy": "SYSTEM_AUTO"
+        }
+      },
+      {
+        "rawfields": {
+          "ptcAbs": {
+            "postTownCode": "2345",
+            "absoluteHouseID": "7890123"
+          },
+          "sequenceNumber": "007",
+          "personKey": "PK-5678901",
+          "titleCode": "Dr",
+          "forename": "Robert",
+          "secondname": "Miller",
+          "genederFlag": "M",
+          "counters": {
+            "insightCounter": "035",
+            "ccjCounter": "006",
+            "RRCounter": "003",
+            "ERCounter": "008",
+            "iCounter": "011",
+            "sightCounter": "015",
+            "inCounter": "0022"
+          },
+          "trasnsactionType": "U",
+          "syncUUID": "678901234567",
+          "additionalField7": "ExtraInfo7"
+        },
+        "standard": {
+          "processingTime": "2024-12-07T13:25:33.567Z",
+          "formatOfSupply": "EFX_EXT",
+          "activeFlag": "Y",
+          "uuid": {
+            "dbNumber": "2067",
+            "fileNumber": "6789",
+            "ISNNUmber": "89012345"
+          },
+          "StdsyncUUID": "678901234567",
+          "dataOrigin": "EXTERNAL_FEED"
+        }
+      },
+      {
+        "rawfields": {
+          "ptcAbs": {
+            "postTownCode": "6789",
+            "absoluteHouseID": "4567890"
+          },
+          "sequenceNumber": "008",
+          "personKey": "PK-7890123",
+          "titleCode": "Mrs",
+          "forename": "Jennifer",
+          "secondname": "Wilson",
+          "genederFlag": "F",
+          "counters": {
+            "insightCounter": "040",
+            "ccjCounter": "004",
+            "RRCounter": "007",
+            "ERCounter": "006",
+            "iCounter": "012",
+            "sightCounter": "016",
+            "inCounter": "0025"
+          },
+          "trasnsactionType": "I",
+          "syncUUID": "789012345678",
+          "additionalField8": "ExtraInfo8"
+        },
+        "standard": {
+          "processingTime": "2024-12-08T15:50:22.890Z",
+          "formatOfSupply": "EFX_INT",
+          "activeFlag": "N",
+          "uuid": {
+            "dbNumber": "2033",
+            "fileNumber": "2345",
+            "ISNNUmber": "90123456"
+          },
+          "StdsyncUUID": "789012345678",
+          "processingStatus": "COMPLETED"
+        }
+      },
+      {
+        "rawfields": {
+          "ptcAbs": {
+            "postTownCode": "4567",
+            "absoluteHouseID": "8901234"
+          },
+          "sequenceNumber": "009",
+          "personKey": "PK-1234567",
+          "titleCode": "Mr",
+          "forename": "Christopher",
+          "secondname": "Taylor",
+          "genederFlag": "M",
+          "counters": {
+            "insightCounter": "045",
+            "ccjCounter": "005",
+            "RRCounter": "005",
+            "ERCounter": "009",
+            "iCounter": "013",
+            "sightCounter": "017",
+            "inCounter": "0027"
+          },
+          "trasnsactionType": "D",
+          "syncUUID": "890123456789",
+          "additionalField9": "ExtraInfo9"
+        },
+        "standard": {
+          "processingTime": "2024-12-09T07:15:44.123Z",
+          "formatOfSupply": "EFX_EXT",
+          "activeFlag": "Y",
+          "uuid": {
+            "dbNumber": "2078",
+            "fileNumber": "9876",
+            "ISNNUmber": "01234567"
+          },
+          "StdsyncUUID": "890123456789",
+          "complianceFlag": "VERIFIED"
+        }
+      },
+      {
+        "rawfields": {
+          "ptcAbs": {
+            "postTownCode": "8901",
+            "absoluteHouseID": "5432167"
+          },
+          "sequenceNumber": "010",
+          "personKey": "PK-8901234",
+          "titleCode": "Ms",
+          "forename": "Amanda",
+          "secondname": "Anderson",
+          "genederFlag": "F",
+          "counters": {
+            "insightCounter": "050",
+            "ccjCounter": "003",
+            "RRCounter": "008",
+            "ERCounter": "005",
+            "iCounter": "014",
+            "sightCounter": "018",
+            "inCounter": "0030"
+          },
+          "trasnsactionType": "U",
+          "syncUUID": "901234567890",
+          "additionalField10": "ExtraInfo10"
+        },
+        "standard": {
+          "processingTime": "2024-12-10T12:40:55.456Z",
+          "formatOfSupply": "EFX_INT",
+          "activeFlag": "N",
+          "uuid": {
+            "dbNumber": "2089",
+            "fileNumber": "5432",
+            "ISNNUmber": "12345678"
+          },
+          "StdsyncUUID": "901234567890",
+          "reviewStatus": "PENDING"
+        }
+      }
+    ]
+  }
+}

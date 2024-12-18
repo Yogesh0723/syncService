@@ -1,0 +1,90 @@
+{
+  "purposingHeader": {
+    "runDate": 17314353636353,
+    "dataViewName": "PURP_UKDEV_CONSUMER_NAMETABLE",
+    "additionalInfo": {
+      "env": "int-uk",
+      "MAINTENANCE_STRATEGY": "DELETE_ON_EMPTY"
+    }
+  },
+  "protectionInfo": {
+    "unprotected": "true",
+    "keyIndex": 9
+  },
+  "CONSUMER_NAMETABLE": {
+    "latest": [
+      {
+        "rawfields": {
+          "ptcAbs": {
+            "postTownCode": "2540",
+            "absoluteHouseID": "9999999"
+          },
+          "sequenceNumber": "999",
+          "personKey": "",
+          "titleCode": "Mr",
+          "forename": "",
+          "secondname": "",
+          "genederFlag": "M",
+          "counters": {
+            "insightCounter": "000",
+            "ccjCounter": "000",
+            "RRCounter": "000",
+            "ERCounter": "000",
+            "iCounter": "000",
+            "sightCounter": "000",
+            "inCounter": "0001"
+          },
+          "trasnsactionType": "I",
+          "syncUUID": "123456789120"
+        },
+        "standard": {
+          "processingTime": "2024-11-15T05:57:47.293Z",
+          "formatOfSupply": "EFX_INT",
+          "activeFlag": null,
+          "uuid": {
+            "dbNumber": "1956",
+            "fileNumber": "5794",
+            "ISNNUmber": "12345678"
+          },
+          "StdsyncUUID": "123456789120"
+        }
+      },
+      {
+        "rawfields": {
+          "ptcAbs": {
+            "postTownCode": "2540",
+            "absoluteHouseID": "9999999"
+          },
+          "sequenceNumber": "999",
+          "personKey": "",
+          "titleCode": "Mr",
+          "forename": "",
+          "secondname": "",
+          "genederFlag": "M",
+          "counters": {
+            "insightCounter": "000",
+            "ccjCounter": "000",
+            "RRCounter": "000",
+            "ERCounter": "000",
+            "iCounter": "000",
+            "sightCounter": "000",
+            "inCounter": "0001"
+          },
+          "trasnsactionType": "I",
+          "syncUUID": "123456789120"
+        },
+        "standard": {
+          "processingTime": "2024-11-15T05:57:47.293Z",
+          "formatOfSupply": "EFX_INT",
+          "activeFlag": null,
+          "uuid": {
+            "dbNumber": "1956",
+            "fileNumber": "5794",
+            "ISNNUmber": "12345678"
+          },
+          "StdsyncUUID": "123456789120"
+        }
+      }
+    ]
+  }
+}
